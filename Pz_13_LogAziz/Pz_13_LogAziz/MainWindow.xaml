@@ -1,0 +1,31 @@
+﻿<Window x:Class="Pz_13_LogAziz.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pz_13_LogAziz"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid Name="dbTrip" AutoGenerateColumns="True" SelectionMode="Single" SelectionChanged="dbTrip_SelectionChanged"/>
+        <StackPanel Margin="0,272,663,0">
+            <Button x:Name="EditBtn" Click="EditButton_Click" Content="Редактировать" HorizontalAlignment="Left" FontSize="15" Width="110" Margin="10, 10, 0, 0"/>
+            <Button x:Name="DeleteBtn" Click="DeleteButton_Click" Content="Удалить" HorizontalAlignment="Left" FontSize="15" Width="110" Margin="10, 10, 0, 0"/>
+            <Button x:Name="AddBtn" Click="AddBtn_Click" Content="Добавить" HorizontalAlignment="Left" FontSize="15" Width="110" Margin="10, 10, 0, 0"/>
+        </StackPanel>
+        <StackPanel x:Name="OneCol" Margin="138,281,0,0" Height="150" VerticalAlignment="Top" HorizontalAlignment="Left" Width="224">
+            <TextBox Text="{Binding Path=trip_no}" x:Name="trip_no" Height="23"/>
+            <TextBox Text="{Binding Path=iD_comp}" x:Name="ID_comp" Height="23" Margin="0 10 0 0"/>
+            <TextBox Text="{Binding Path=plane}" x:Name="plane" Height="23" Margin="0 10 0 0"/>
+            <TextBox Text="{Binding Path=town_from}" x:Name="town_from" Height="23" Margin="0 10 0 0"/>
+
+        </StackPanel>
+        <StackPanel Margin="431,281,0,0" Height="150" VerticalAlignment="Top" HorizontalAlignment="Left" Width="224">
+            <TextBox Text="{Binding Path=TownOut}" x:Name="town_out" Height="23"/>
+            <TextBox Text="{Binding Path=TownIn}" x:Name="town_in" Height="23" Margin="0 10 0 0"/>
+            <TextBox Text="{Binding Path=townTo}" x:Name="town_to" Height="23" Margin="0 43 0 0"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

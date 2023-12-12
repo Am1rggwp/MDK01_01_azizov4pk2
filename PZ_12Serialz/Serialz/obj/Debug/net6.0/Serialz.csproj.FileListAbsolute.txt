@@ -1,0 +1,14 @@
+C:\Users\amira\source\repos\Serialz\Serialz\bin\Debug\net6.0\Serialz.exe
+C:\Users\amira\source\repos\Serialz\Serialz\bin\Debug\net6.0\Serialz.deps.json
+C:\Users\amira\source\repos\Serialz\Serialz\bin\Debug\net6.0\Serialz.runtimeconfig.json
+C:\Users\amira\source\repos\Serialz\Serialz\bin\Debug\net6.0\Serialz.dll
+C:\Users\amira\source\repos\Serialz\Serialz\bin\Debug\net6.0\Serialz.pdb
+C:\Users\amira\source\repos\Serialz\Serialz\obj\Debug\net6.0\Serialz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amira\source\repos\Serialz\Serialz\obj\Debug\net6.0\Serialz.AssemblyInfoInputs.cache
+C:\Users\amira\source\repos\Serialz\Serialz\obj\Debug\net6.0\Serialz.AssemblyInfo.cs
+C:\Users\amira\source\repos\Serialz\Serialz\obj\Debug\net6.0\Serialz.csproj.CoreCompileInputs.cache
+C:\Users\amira\source\repos\Serialz\Serialz\obj\Debug\net6.0\Serialz.dll
+C:\Users\amira\source\repos\Serialz\Serialz\obj\Debug\net6.0\refint\Serialz.dll
+C:\Users\amira\source\repos\Serialz\Serialz\obj\Debug\net6.0\Serialz.pdb
+C:\Users\amira\source\repos\Serialz\Serialz\obj\Debug\net6.0\Serialz.genruntimeconfig.cache
+C:\Users\amira\source\repos\Serialz\Serialz\obj\Debug\net6.0\ref\Serialz.dll

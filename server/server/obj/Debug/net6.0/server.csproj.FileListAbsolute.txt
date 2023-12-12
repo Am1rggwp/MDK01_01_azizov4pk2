@@ -1,0 +1,17 @@
+D:\Users\naumov.de1264\source\repos\server\server\bin\Debug\net6.0\server.exe
+D:\Users\naumov.de1264\source\repos\server\server\bin\Debug\net6.0\server.deps.json
+D:\Users\naumov.de1264\source\repos\server\server\bin\Debug\net6.0\server.runtimeconfig.json
+D:\Users\naumov.de1264\source\repos\server\server\bin\Debug\net6.0\server.dll
+D:\Users\naumov.de1264\source\repos\server\server\bin\Debug\net6.0\server.pdb
+D:\Users\naumov.de1264\source\repos\server\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\naumov.de1264\source\repos\server\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+D:\Users\naumov.de1264\source\repos\server\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+D:\Users\naumov.de1264\source\repos\server\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+D:\Users\naumov.de1264\source\repos\server\server\obj\Debug\net6.0\server.dll
+D:\Users\naumov.de1264\source\repos\server\server\obj\Debug\net6.0\refint\server.dll
+D:\Users\naumov.de1264\source\repos\server\server\obj\Debug\net6.0\server.pdb
+D:\Users\naumov.de1264\source\repos\server\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+D:\Users\naumov.de1264\source\repos\server\server\obj\Debug\net6.0\ref\server.dll
+D:\Users\naumov.de1264\source\repos\server\server\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Users\naumov.de1264\source\repos\server\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+D:\Users\naumov.de1264\source\repos\server\server\obj\Debug\net6.0\server.csproj.CopyComplete

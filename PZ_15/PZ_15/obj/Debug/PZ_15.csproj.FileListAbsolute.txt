@@ -1,0 +1,15 @@
+D:\Users\naumov.de1264\source\repos\PZ_15\PZ_15\bin\Debug\PZ_15.exe.config
+D:\Users\naumov.de1264\source\repos\PZ_15\PZ_15\bin\Debug\PZ_15.exe
+D:\Users\naumov.de1264\source\repos\PZ_15\PZ_15\bin\Debug\PZ_15.pdb
+D:\Users\naumov.de1264\source\repos\PZ_15\PZ_15\obj\Debug\PZ_15.csproj.AssemblyReference.cache
+D:\Users\naumov.de1264\source\repos\PZ_15\PZ_15\obj\Debug\MainWindow.g.cs
+D:\Users\naumov.de1264\source\repos\PZ_15\PZ_15\obj\Debug\App.g.cs
+D:\Users\naumov.de1264\source\repos\PZ_15\PZ_15\obj\Debug\PZ_15_MarkupCompile.cache
+D:\Users\naumov.de1264\source\repos\PZ_15\PZ_15\obj\Debug\PZ_15_MarkupCompile.lref
+D:\Users\naumov.de1264\source\repos\PZ_15\PZ_15\obj\Debug\MainWindow.baml
+D:\Users\naumov.de1264\source\repos\PZ_15\PZ_15\obj\Debug\PZ_15.g.resources
+D:\Users\naumov.de1264\source\repos\PZ_15\PZ_15\obj\Debug\PZ_15.Properties.Resources.resources
+D:\Users\naumov.de1264\source\repos\PZ_15\PZ_15\obj\Debug\PZ_15.csproj.GenerateResource.cache
+D:\Users\naumov.de1264\source\repos\PZ_15\PZ_15\obj\Debug\PZ_15.csproj.CoreCompileInputs.cache
+D:\Users\naumov.de1264\source\repos\PZ_15\PZ_15\obj\Debug\PZ_15.exe
+D:\Users\naumov.de1264\source\repos\PZ_15\PZ_15\obj\Debug\PZ_15.pdb

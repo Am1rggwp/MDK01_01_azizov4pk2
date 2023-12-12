@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Name>Alisa</Name>
+    <Age>37</Age>
+    <Company>
+      <Name>Microsoft</Name>
+    </Company>
+    <Gender>
+      <Name>Famel</Name>
+      <Date>1986</Date>
+    </Gender>
+    <Date>
+      <Name>Famel</Name>
+      <Date>1986</Date>
+    </Date>
+  </Person>
+  <Person>
+    <Name>Bob</Name>
+    <Age>41</Age>
+    <Company>
+      <Name>Google</Name>
+    </Company>
+    <Gender>
+      <Name>I'm mehanik</Name>
+      <Date>1982</Date>
+    </Gender>
+    <Date>
+      <Name>I'm mehanik</Name>
+      <Date>1982</Date>
+    </Date>
+  </Person>
+</ArrayOfPerson>

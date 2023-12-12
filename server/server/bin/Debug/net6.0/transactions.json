@@ -1,0 +1,22 @@
+[
+  {
+    "ClientName": "Амир",
+    "Amount": 100.0,
+    "TransactionType": "Доход"
+  },
+  {
+    "ClientName": "Амир",
+    "Amount": 100.0,
+    "TransactionType": "Расход"
+  },
+  {
+    "ClientName": "Олег",
+    "Amount": 500.0,
+    "TransactionType": "Доход"
+  },
+  {
+    "ClientName": "Олег",
+    "Amount": 500.0,
+    "TransactionType": "Расход"
+  }
+]

@@ -1,0 +1,7 @@
+D:\Users\naumov.de1264\source\repos\pz_16\Pz_16_1\bin\Debug\Pz_16_1.exe.config
+D:\Users\naumov.de1264\source\repos\pz_16\Pz_16_1\bin\Debug\Pz_16_1.exe
+D:\Users\naumov.de1264\source\repos\pz_16\Pz_16_1\bin\Debug\Pz_16_1.pdb
+D:\Users\naumov.de1264\source\repos\pz_16\Pz_16_1\obj\Debug\server.csproj.AssemblyReference.cache
+D:\Users\naumov.de1264\source\repos\pz_16\Pz_16_1\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\Users\naumov.de1264\source\repos\pz_16\Pz_16_1\obj\Debug\Pz_16_1.exe
+D:\Users\naumov.de1264\source\repos\pz_16\Pz_16_1\obj\Debug\Pz_16_1.pdb
